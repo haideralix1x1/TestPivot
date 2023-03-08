@@ -1,0 +1,11 @@
+{
+  "name": "com.HaideraliX1x1.testPivot",
+  "displayName": "TestPivot",
+  "version": "1.2.0",
+  "unity": "2018.3",
+  "description": "A Packgage for Testing Objects Pivot Unity/C# Configuration",
+  "keywords": [ "config", "file", "data" ],
+  "category": "Automations",
+  "dependencies": {
+  }
+}
